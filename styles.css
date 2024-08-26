@@ -197,3 +197,8 @@ footer .redes-sociais a img {
     text-decoration:line-through;
     font-style: italic;
 }
+
+#semant{
+    display:flexbox;
+    text-align: end;
+}
